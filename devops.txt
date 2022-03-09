@@ -1,0 +1,4 @@
+Hello Everyone
+Welcome to devops session
+Today we are disucssing about fetch command
+date: 08/03/2022
